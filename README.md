@@ -1,3 +1,6 @@
+## VİDEO: 
+![Screen Recording 2024-09-29 at 09 15 15 54 PM](https://github.com/user-attachments/assets/52044b43-a1d3-47f4-818a-086e9be54e02)
+
 # Kütüphaneler
 react-router-dom
 react-bootstrap
