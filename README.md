@@ -22,3 +22,4 @@ console.log("hepsi 5 ten büyük mü ?", cevap1); console.log("hepsi 20 den büy
 console.log("en az biri 65 den büyük mü ?", cevap3); console.log("en az biri 90 dan büyük mü ?", cevap4);
 
 // * every dizideki elemanlardan en az bir tansesi verilen koşula uyuyor mu kontrol eder# Notes_App_Project
+# Notes_App_Project
